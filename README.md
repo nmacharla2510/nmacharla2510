@@ -5,6 +5,8 @@ Project Management, Service Delivery Manager, Data Analysis, Data Engineering, R
 -----------------------------------------------------------------------------------------------
 
 I'm an independent IT Project Manager, AI Engineer, and workflow optimization specialist with 10+ years of experience delivering technology-driven solutions across infrastructure, analytics, and cloud platforms.
+
+**Certifications:**
 - PMP | Power BI Data Analyst | ITIL Foundation | Microsoft SCCM
 
 * 🌍  I'm based in CANADA
