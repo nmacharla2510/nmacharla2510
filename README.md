@@ -4,14 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Management, Service Delivery Manager, Data Analysis, Data Engineering, RAG Applications
 -----------------------------------------------------------------------------------------------
 
-I'm an independent IT Project Manager, AI Engineer, and workflow optimization specialist with 10+ years of experience delivering technology-driven solutions across infrastructure, analytics, and cloud platforms.
-
-**Certifications:**
+I'm an independent IT Project Manager, AI Engineer, and workflow optimization specialist with 16+ years of experience delivering technology-driven solutions across infrastructure, analytics, and cloud platforms.
+ **Certifications:**
 - PMP | Power BI Data Analyst | ITIL Foundation | Microsoft SCCM
 
 * 🌍  I'm based in CANADA
 * 🖥️  See my portfolio at [www.linkedin.com/in/naveen-macharla-pmp-4454b5292](http://github.com/nmacharla2510)
-* ✉️  You can contact me at [naveenswarna@gmail.com](mailto:naveenswarna@gmail.com)
+* ✉️  You can contact me at [naveendataeng@gmail.com](mailto:naveendataeng@gmail.com)
 * 👥  I'm looking to collaborate on Data Analysis, Data Engineering, RAG Applications
 
 <p align="left">
