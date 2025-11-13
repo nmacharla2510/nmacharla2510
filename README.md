@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Management, Service Delivery Manager, Data Analysis, Data Engineering, RAG Applications
 -----------------------------------------------------------------------------------------------
 
-I'm an independent IT Project Manager, AI Engineer, and workflow optimization specialist with 16+ years of experience delivering technology-driven solutions across infrastructure, analytics, and cloud platforms.
+I'm an independent IT Project Manager, AI Engineer, Data Engineer and workflow optimization specialist with 10+ years of experience delivering technology-driven solutions across infrastructure, analytics, and cloud platforms.
 
 **Certifications:** PMP | Power BI Data Analyst | ITIL Foundation | Microsoft SCCM
 
